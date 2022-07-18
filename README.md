@@ -6,3 +6,7 @@ kuki muki
 rututu
 kkk
 
+:smile:
+**hello**
+`mistake`
+``mistake``
