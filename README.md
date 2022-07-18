@@ -6,3 +6,4 @@ kuki muki
 rututu
 kkk
 
+:smile:
